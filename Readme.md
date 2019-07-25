@@ -65,11 +65,11 @@
 利用刚才java程序解密参数 看一下是如何构造的参数<br />  
 发现status为0时创建任务 并返回infoid<br />  
 status为1时利用infoid完成任务<br />  
-[!23.png](23.png) <br />  
-[!24.png](24.png) <br /> 
-[!25.png](25.png) <br /> 
+![23.png](23.png) <br />  
+![24.png](24.png) <br /> 
+![25.png](25.png) <br /> 
 **实际运行情况**<br /> 
-[!26.png](26.png) <br /> 
+![26.png](26.png) <br /> 
 
 - 编写自动化脚本
 [详见](dx.js)<br />  
